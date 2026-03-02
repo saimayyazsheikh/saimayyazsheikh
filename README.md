@@ -15,10 +15,11 @@
 
 <p align="left"><font size="5"><b>About Me</b></font></p>
 <ul>
-  <li>🔭 <b>Current Focus:</b> AI-powered student engagement monitoring (EduSense).</li>
-  <li>📱 <b>Specialization:</b> Cross-platform mobile apps with Flutter and Dart.</li>
-  <li>🌐 <b>Web:</b> Building scalable architectures using the MERN stack.</li>
-  <li>⚡ <b>Goal:</b> Pursuing a Master's degree abroad to further my AI research.</li>
+  <li>🚀 <b>Final Year Project:</b> Developing <b>Safe Trade Hub</b>, a C2C marketplace focusing on secure verification and payment protection.</li>
+  <li>📱 <b>Specialization:</b> Expert in <b>Web Development</b> using <b>React & Node.js</b> for full-stack web solutions.</li>
+  <li>🤖 <b>AI & IoT:</b> Built <b>EduSense</b> for real-time student engagement monitoring and automated environmental systems using Arduino.</li>
+  <li>🎓 <b>Leadership:</b> Serving as <b>Joint Secretary @ AUCIS</b> and recognized as a <b>Millennium Fellow</b>.</li>
+  <li>🌍 <b>Future Goal:</b> Preparing for <b>IELTS</b> to pursue a Master’s degree abroad after graduation.</li>
 </ul>
 
 <hr />
