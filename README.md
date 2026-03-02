@@ -33,10 +33,6 @@
 <hr />
 
 <p align="left"><font size="5"><b>📊 GitHub Analytics</b></font></p>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimayyazsheikh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimayyazsheikh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimayyazsheikh&theme=tokyonight&hide_border=true" width="100%" />
 </div>
