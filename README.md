@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Muhammad%20Saim%20Ayyaz&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
 
   <h3>Full-Stack Web Developer | Python & Flutter</h3>
-  <p><b>BSIT @ Air University | Joint Secretary @ AUCIS | Millennium Fellow</b></p>
+  <p><b>BSIT @ Air University | Ex General Secretary @ AUCIS | Millennium Fellow</b></p>
 
   <p>
     <a href="https://www.linkedin.com/in/muhammad-saim-ayyaz-61a087319"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
