@@ -1,56 +1,74 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Muhammad%20Saim%20Ayyaz&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<h1>Hi there, I'm Saim!</h1>
+  <h3>Full-Stack Developer | Python & Flutter Specialist</h3>
+  <p><b>BSIT @ Air University | Joint Secretary @ AUCIS | Millennium Fellow</b></p>
 
-<h3>Full-Stack Developer | Python & Flutter Specialist | BSIT @ Air University</h3>
-<p><b>Joint Secretary @ AUCIS | Millennium Fellow</b></p>
-
-<hr>
-
+  <p>
+    <a href="https://www.linkedin.com/in/muhammad-saim-ayyaz-61a087319"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/cymonbike"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="mailto:saimisatwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
 </div>
 
-<h2>About Me:</h2>
+<hr />
 
-<p>I transform complex technical challenges into functional, user-centric platforms.</p>
+<h2>About Me</h2>
+<p>I am a passionate developer focused on transforming complex technical challenges into functional, user-centric platforms.</p>
 
 <ul>
-  <li>🚀 <b>Currently working on:</b> Enhancing real-time student engagement miners using Deep Learning.</li>
-  <li>💻 <b>Tech Stack Focus:</b> Full-Stack Web & Mobile (React, Node.js, and Flutter).</li>
-  <li>🛠️ <b>DevOps & Security:</b> Implementing CI/CD pipelines with Docker and Jenkins.</li>
-  <li>🎓 <b>Community:</b> Leading innovation as Joint Secretary of AUCIS.</li>
-  <li>⚡ <b>Fun fact:</b> I am a Millennium Fellow passionate about driving technical excellence.</li>
+  <li>🔭 <b>Current Focus:</b> AI-powered student engagement monitoring (EduSense).</li>
+  <li>📱 <b>Specialization:</b> Cross-platform mobile apps with Flutter and Dart.</li>
+  <li>🌐 <b>Web:</b> Building scalable architectures using the MERN stack.</li>
+  <li>⚡ <b>Goal:</b> Pursuing a Master's degree abroad to further my AI research.</li>
 </ul>
 
-<hr>
+<hr />
 
-<h2>🌐 Connect with me:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammad-saim-ayyaz-61a087319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/cymonbike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+<h2>🛠️ Tech Stack</h2>
 
-<hr>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
+      <br />Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br />React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="NodeJS" />
+      <br />Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+      <br />MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+      <br />Docker
+    </td>
+  </tr>
+</table>
 
-<h2>💻 Tech Stack:</h2>
+<hr />
 
-<p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-</p>
-
-<hr>
-
-<h2>📊 GitHub Stats:</h2>
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saimayyazsheikh&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimayyazsheikh&theme=dark&hide_border=true&layout=compact" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saimayyazsheikh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimayyazsheikh&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=saimayyazsheikh&theme=dark&hide_border=true" />
+  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=saimayyazsheikh&theme=tokyonight&hide_border=true" />
 </p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+</div>
