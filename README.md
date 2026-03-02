@@ -1,18 +1,55 @@
-# 💫 About Me:
-Full-Stack Developer | Python & Flutter Specialist | BSIT @ Air University<br><br>I transform complex technical challenges into functional, user-centric platforms. My expertise covers:<br><br>* Full-Stack Web & Mobile: Proficient in React, Node.js, and Flutter to build responsive apps.<br><br>* AI & IoT: Developed real-time student engagement miners using Deep Learning and automated environmental control systems using Arduino.<br><br>* Security & DevOps: Experienced in Docker, Jenkins, and CI/CD, with a focus on implementing secure verification modules and payment protection.<br><br>As the Joint Secretary of the Air University Computing and Innovation Society (AUCIS) and a Millennium Fellow, I am passionate about driving innovation through collaboration and technical excellence.
+<div align="center">
 
+# Hi there, I'm Saim!
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cymonbike) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-saim-ayyaz-61a087319) 
+### Full-Stack Developer | Python & Flutter Specialist | BSIT @ Air University
+**Joint Secretary @ AUCIS | Millennium Fellow**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saimayyazsheikh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saimayyazsheikh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saimayyazsheikh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://visitcount.itsvg.in/api?id=saimayyazsheikh&icon=0&color=0" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saimayyazsheikh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## About Me:
+I transform complex technical challenges into functional, user-centric platforms.
+
+* 🚀 **Currently working on:** Enhancing real-time student engagement miners using Deep Learning.
+* 💻 **Tech Stack Focus:** Full-Stack Web & Mobile (React, Node.js, and Flutter).
+* 🛠️ **DevOps & Security:** Implementing CI/CD pipelines with Docker and Jenkins.
+* 🎓 **Community:** Leading innovation as Joint Secretary of AUCIS.
+* ⚡ **Fun fact:** I am a Millennium Fellow passionate about driving technical excellence.
+
+---
+
+## 🌐 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammad-saim-ayyaz-61a087319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/cymonbike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack:
+### 🛠 Languages & Frameworks
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### ☁️ Cloud & Databases
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=saimayyazsheikh&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimayyazsheikh&theme=dark&hide_border=true&layout=compact" />
+</p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=saimayyazsheikh&theme=dark&hide_border=true" />
+</p>
+
+<div align="center">
+  <br />
+  <em>Happy Coding! 🚀</em>
+</div>
