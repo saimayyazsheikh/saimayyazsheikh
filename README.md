@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Muhammad%20Saim%20Ayyaz&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <h3>Full-Stack Developer | Python & Flutter Specialist</h3>
+  <h3>Full-Stack Web Developer | Python & Flutter</h3>
   <p><b>BSIT @ Air University | Joint Secretary @ AUCIS | Millennium Fellow</b></p>
 
   <p>
@@ -13,9 +13,7 @@
 
 <hr />
 
-<h2>About Me</h2>
-<p>I am a passionate developer focused on transforming complex technical challenges into functional, user-centric platforms.</p>
-
+<span style="font-size: 2em; font-weight: bold;">About Me</span>
 <ul>
   <li>🔭 <b>Current Focus:</b> AI-powered student engagement monitoring (EduSense).</li>
   <li>📱 <b>Specialization:</b> Cross-platform mobile apps with Flutter and Dart.</li>
@@ -25,40 +23,37 @@
 
 <hr />
 
-<h2>🛠️ Tech Stack</h2>
+<span style="font-size: 2em; font-weight: bold;">🛠️ Tech Stack</span>
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
-      <br />Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-      <br />React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="NodeJS" />
-      <br />Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br />MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-      <br />Docker
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/><br />HTML5</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/><br />CSS3</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/><br />Tailwind</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/><br />C++</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/><br />Python</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="40" height="40"/><br />Flask</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/><br />Node.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/><br />JavaScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter" width="40" height="40"/><br />Flutter</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart" width="40" height="40"/><br />Dart</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/><br />React</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/><br />Firebase</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40"/><br />Cloudflare</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/><br />MongoDB</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/><br />Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/><br />Docker</td>
+    <td colspan="2"></td>
   </tr>
 </table>
 
 <hr />
 
-<h2>📊 GitHub Analytics</h2>
+<span style="font-size: 2em; font-weight: bold;">📊 GitHub Analytics</span>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saimayyazsheikh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
@@ -68,7 +63,3 @@
 <p align="center">
   <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=saimayyazsheikh&theme=tokyonight&hide_border=true" />
 </p>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
-</div>
