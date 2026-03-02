@@ -13,7 +13,7 @@
 
 <hr />
 
-<span style="font-size: 2em; font-weight: bold;">About Me</span>
+<p align="left"><font size="5"><b>About Me</b></font></p>
 <ul>
   <li>🔭 <b>Current Focus:</b> AI-powered student engagement monitoring (EduSense).</li>
   <li>📱 <b>Specialization:</b> Cross-platform mobile apps with Flutter and Dart.</li>
@@ -23,43 +23,19 @@
 
 <hr />
 
-<span style="font-size: 2em; font-weight: bold;">🛠️ Tech Stack</span>
+<p align="left"><font size="5"><b>🛠️ Tech Stack</b></font></p>
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/><br />HTML5</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/><br />CSS3</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/><br />Tailwind</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/><br />C++</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/><br />Python</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="40" height="40"/><br />Flask</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/><br />Node.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/><br />JavaScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter" width="40" height="40"/><br />Flutter</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart" width="40" height="40"/><br />Dart</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/><br />React</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/><br />Firebase</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40"/><br />Cloudflare</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/><br />MongoDB</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/><br />Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/><br />Docker</td>
-    <td colspan="2"></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,cpp,python,flask,nodejs,js,flutter,dart,react,firebase,cloudflare,mongodb,git,docker" />
+</p>
 
 <hr />
 
-<span style="font-size: 2em; font-weight: bold;">📊 GitHub Analytics</span>
+<p align="left"><font size="5"><b>📊 GitHub Analytics</b></font></p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saimayyazsheikh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimayyazsheikh&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=saimayyazsheikh&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saimayyazsheikh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimayyazsheikh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimayyazsheikh&theme=tokyonight&hide_border=true" width="100%" />
+</div>
